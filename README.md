@@ -1,0 +1,2 @@
+# MyMind
+!#/usr/bin/perl
